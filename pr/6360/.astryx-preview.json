@@ -3,26 +3,26 @@
   "repository": "facebook/astryx",
   "pullRequest": {
     "number": 6360,
-    "headSha": "b39ca1ef7d5890b80bd699f1eda802093d8b1edf",
+    "headSha": "5ed32df5a0c1bb6a9c89e6acc7df1af0d1a63266",
     "headRef": "fix/powersearch-consecutive-multi-select",
     "headRepository": "fullstackhacker/astryx",
     "headRepositoryId": "1374828027"
   },
   "sourceRun": {
-    "id": 35265225059,
+    "id": 35285585324,
     "attempt": 1,
     "conclusion": "success"
   },
   "targets": {
     "storybook": {
-      "available": true,
+      "available": false,
       "path": "pr/6360/",
-      "indexSha256": "b1897f3f4703faf8ebc0206d5d9223d232a0528f87b91aed5b2877c19b7952cd"
+      "indexSha256": null
     },
     "sandbox": {
-      "available": true,
+      "available": false,
       "path": "pr/6360/sandbox/",
-      "indexSha256": "994e71fe1ebba39f40f4ddeaa91e6416eea5dec03ea4f6f8b914360578d38e98"
+      "indexSha256": null
     }
   }
 }
